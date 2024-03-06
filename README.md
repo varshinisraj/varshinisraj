@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varshinisraj
 - 👀 I’m interested in learning various disruptive technologies
-- 🌱 I’m currently learning Java, SQL, Python
+- 🌱 I’m currently learning Java, SQL, Python, Software Testing
 - 💞️ I’m looking to collaborate on interesting full stack project
 - 📫 How to reach me: @varshini.r.shivaraj@gmail.com
 - 😄 Pronouns: She/Her
